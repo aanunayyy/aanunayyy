@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full Stack Developer<br>Backend Python Developer<br>Currently Learning New Frameworks <br>and Trying to Build a Startup
+# About Me:
+<br>Learning Backend Python Development</br>
 
 
 ## 🌐 Socials:
